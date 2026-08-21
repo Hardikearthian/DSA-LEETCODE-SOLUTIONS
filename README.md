@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Hardikearthian/DSA-LEETCODE-SOLUTIONS/tree/main/0113-path-sum-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/Hardikearthian/DSA-LEETCODE-SOLUTIONS/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
